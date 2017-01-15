@@ -5,7 +5,7 @@ The characters sent by the buttons from the serial port:
 Forward Button : W
 Backward Button : S
 Left Button : A
-Right Button : S
+Right Button : D
 Left Forward Button : Q
 Right Forward Button : E
 Left Backward Button : Z
